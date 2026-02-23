@@ -119,5 +119,3 @@ The system automatically saves the blockchain to `data/chain.bin` and the pendin
 ---
 
 *Submitted as part of the Software Engineering – Low-Level Specialization (Introduction to Blockchain Development) course at the African Leadership University (ALU).*
-
-*Academic Year 2024–2025*
