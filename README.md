@@ -113,9 +113,8 @@ The system automatically saves the blockchain to `data/chain.bin` and the pendin
 
 ## Contributor(s)
 
-| Name | ALU Student ID
-|------|---------------|------|
-| Ramadhani Shafii Wanjenja | 176632965 |
+1. Name: Ramadhani Shafii Wanjenja 
+2. ALU Student ID: 176632965
 
 ---
 
